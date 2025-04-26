@@ -54,7 +54,7 @@
             "company": "WeInvest",
             "title": "DATA ANALYST INTERN",
             "duration": "Jul y 2023 - September 2023",
-            "location": "Chennai, In"
+            "description": "Processed and cleaned 10,000+ investment records , improving data quality for analysis.\nImplemented PCA, reducing feature dimensions by 30%, optimizing computational efficiency.\nConducted K-Means clustering , segmenting customers into 5+ distinct investment groups , leading to better-targeted financial strategies.\nDeveloped customized investment plans , increasing portfolio returns by 15% based on customer segmentation insights." 
         }
     ],
     "certifications": [
