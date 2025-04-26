@@ -1,4 +1,4 @@
-# 🧠 Resume Parser using OCR + LLM (Tesseract + Ollama)
+#  Resume Parser using OCR + LLM (Tesseract + Ollama)
 
 This project automates resume parsing by extracting raw text from a PDF and then converting it into structured JSON using a local LLM (like Mistral or LLaMA3 via Ollama). It supports both text-based and scanned PDFs by combining traditional text extraction with OCR fallback.
 
