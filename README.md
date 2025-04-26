@@ -26,7 +26,7 @@ Resume_parser/|
 - Python 3.8 or above
 - Tesseract OCR (installed and configured)
 - Ollama with supported models (e.g., Mistral or LLaMA3)
-- Required Python packages (see below)
+- Required Python packages (requirements.txt)
 
 ---
 
