@@ -1,0 +1,107 @@
+{
+    "name": "Mohammed Harshath SS",
+    "email": "harshath142@gmail.com",
+    "phone": "+91-8667701712",
+    "linkedin": "Mohammed Harshath SS",
+    "skills": [
+        "Python",
+        "CSharp",
+        "Git",
+        "R",
+        "HTML",
+        "CSS",
+        "SQL",
+        "JavaScript",
+        "Jupyter Notebooks",
+        "Google Co-lab",
+        "DBeaver",
+        "VSCode",
+        "Microsoft Power BIDashboards and Reports",
+        "Excel",
+        "Ollama",
+        "TensorFlow",
+        "PyTorch",
+        "NLTK",
+        "SpaCy",
+        "BeautifulSoup",
+        "Scrappy",
+        "Flask",
+        "Selenium",
+        "UIAutomation Suite",
+        "Git",
+        "Azure DevOps",
+        "PostMan",
+        "API",
+        "Hugging Face Transformers",
+        "Langchain",
+        "Stable Diffusion",
+        "Code Llama"
+    ],
+    "education": [
+        {
+            "degree": "MASTER DATA SCIENCE",
+            "institution": "IIT -M GUVI",
+            "year": "A ugus t 2024 -December 2024"
+        },
+        {
+            "degree": "B. TECH AI & DATA SCIENCE",
+            "institution": "Kathir College of Engineering",
+            "year": "J une 2021 -Ma y 2024"
+        }
+    ],
+    "experience": [
+        {
+            "company": "WeInvest",
+            "title": "DATA ANAL YST INTERN",
+            "duration": "J ul y 2023 - September 2023",
+            "location": "Chennai, In",
+            "description": [
+                "Processed andcleaned 10,000+ investment records ,improving dataquality foranalysis.",
+                "Implemented PCA,reducing feature dimensions by30%,optimizing computational efficiency.",
+                "Conducted K-Means clustering ,segmenting customers into5+distinct investment groups ,leading tobetter-targeted financial strategies.",
+                "Developed customized investment plans ,increasing portfolio returns by15% based oncustomer segmentation insights."
+            ]
+        }
+    ],
+    "certifications": [
+        {
+            "title": "Master Data Science -IITM GUVI",
+            "date": "Dec2024"
+        },
+        {
+            "title": "Advanced Programming Professional -IITM GUVI",
+            "date": "Dec2024"
+        },
+        {
+            "title": "Microsoft Data Analyst (PL-300) -Udemy",
+            "date": "Jun2024"
+        },
+        {
+            "title": "Data Analytics withPower BI-ICTAcademy",
+            "date": "Oct2023"
+        }
+    ],
+    "projects": [
+        {
+            "name": "CARDEKHO VEHICLE RECOMMENDATION SYSTEM",
+            "description": [
+                "Developed anmachine learning-powered recommendation engine using collaborative filtering ,enhancing personalized carsuggestions based onprice, specifications, andfeatures.",
+                "Engineered arobust datapipeline byscraping real-time vehicle data using Selenium &SQL,transforming unstructured dataintostructured insights with30+engineered features ."
+            ]
+        },
+        {
+            "name": "DEEPDIVE AI",
+            "description": [
+                "Developed anAI model for predicting deepsea oil and gas reservoirs using seismic data.",
+                "Improved the model's accuracy by optimizing hyperparameters and incorporating a transfer learning approach."
+            ]
+        },
+        {
+            "name": "Financial Fraud Detection System",
+            "description": [
+                "Developed analgorithm for detecting financial fraud using machine learning techniques.",
+                "Achieved anaccuracy rate of 95% in detecting fraudulent transactions."
+            ]
+        }
+    ]
+}
