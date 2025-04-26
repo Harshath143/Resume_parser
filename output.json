@@ -16,7 +16,7 @@
         "Google Co-lab",
         "DBeaver",
         "VSCode",
-        "Microsoft Power BIDashboards and Reports",
+        "Microsoft Power BI Dashboards and Reports",
         "Excel",
         "Ollama",
         "TensorFlow",
@@ -28,7 +28,7 @@
         "Flask",
         "Selenium",
         "UIAutomation Suite",
-        "Git",
+        "GitHub",
         "Azure DevOps",
         "PostMan",
         "API",
@@ -41,67 +41,40 @@
         {
             "degree": "MASTER DATA SCIENCE",
             "institution": "IIT -M GUVI",
-            "year": "A ugus t 2024 -December 2024"
+            "year": "Awaited (2024 -December 2024)"
         },
         {
             "degree": "B. TECH AI & DATA SCIENCE",
             "institution": "Kathir College of Engineering",
-            "year": "J une 2021 -Ma y 2024"
+            "year": "June 2021 -May 2024"
         }
     ],
     "experience": [
         {
             "company": "WeInvest",
-            "title": "DATA ANAL YST INTERN",
-            "duration": "J ul y 2023 - September 2023",
-            "location": "Chennai, In",
-            "description": [
-                "Processed andcleaned 10,000+ investment records ,improving dataquality foranalysis.",
-                "Implemented PCA,reducing feature dimensions by30%,optimizing computational efficiency.",
-                "Conducted K-Means clustering ,segmenting customers into5+distinct investment groups ,leading tobetter-targeted financial strategies.",
-                "Developed customized investment plans ,increasing portfolio returns by15% based oncustomer segmentation insights."
-            ]
+            "title": "DATA ANALYST INTERN",
+            "duration": "Jul y 2023 - September 2023",
+            "location": "Chennai, In"
         }
     ],
     "certifications": [
-        {
-            "title": "Master Data Science -IITM GUVI",
-            "date": "Dec2024"
-        },
-        {
-            "title": "Advanced Programming Professional -IITM GUVI",
-            "date": "Dec2024"
-        },
-        {
-            "title": "Microsoft Data Analyst (PL-300) -Udemy",
-            "date": "Jun2024"
-        },
-        {
-            "title": "Data Analytics withPower BI-ICTAcademy",
-            "date": "Oct2023"
-        }
+        "Master Data Science -IITM GUVI (Dec2024)",
+        "Advanced Programming Professional -IITM GUVI (Dec2024)",
+        "Microsoft Data Analyst (PL-300) -Udemy (Jun2024)",
+        "Data Analytics withPower BI-ICTAcademy (Oct2023)"
     ],
     "projects": [
         {
             "name": "CARDEKHO VEHICLE RECOMMENDATION SYSTEM",
-            "description": [
-                "Developed anmachine learning-powered recommendation engine using collaborative filtering ,enhancing personalized carsuggestions based onprice, specifications, andfeatures.",
-                "Engineered arobust datapipeline byscraping real-time vehicle data using Selenium &SQL,transforming unstructured dataintostructured insights with30+engineered features ."
-            ]
+            "description": "Developed a machine learning-powered recommendation engine using collaborative filtering, enhancing personalized car suggestions based on price, specifications, and features. Engineered a robust data pipeline by scraping real-time vehicle data using Selenium & SQL, transforming unstructured data into structured insights with 30+ engineered features. Achieved a precision@10 score of 0.75, optimizing the recommendation system for high user engagement & purchase intent predictions."
         },
         {
-            "name": "DEEPDIVE AI",
-            "description": [
-                "Developed anAI model for predicting deepsea oil and gas reservoirs using seismic data.",
-                "Improved the model's accuracy by optimizing hyperparameters and incorporating a transfer learning approach."
-            ]
+            "name": "DEEPDIVE AI - PAPERINSIGHT (AI-POWERED RESEARCH PAPER SUMMARIZATION)",
+            "description": "Developed an AI-powered research paper querying system using RAG architecture. Implemented FAISS/Pinecone for efficient vector search. Integrated GPT-based AI models to generate contextual insights and built a Streamlit dashboard for real-time visualization and deployment."
         },
         {
-            "name": "Financial Fraud Detection System",
-            "description": [
-                "Developed analgorithm for detecting financial fraud using machine learning techniques.",
-                "Achieved anaccuracy rate of 95% in detecting fraudulent transactions."
-            ]
+            "name": "FAKE REVIEW CLASSIFICATION AND TOPIC MODELING",
+            "description": "Built an AI-driven fake review detection system leveraging BERT, NLP, and sentiment analysis, enhancing review authenticity & fraud detection. Deployed as a scalable, production-ready API with high precision and recall rates."
         }
     ]
 }
