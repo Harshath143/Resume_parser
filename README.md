@@ -81,4 +81,25 @@ TESSERACT_PATH = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
   ```vbnet
   🎉 Resume parsed! Output saved to output.json
   ```
-  
+
+  ## 📋 Assumptions
+
+- The PDF file is not password-protected or encrypted.
+- Tesseract OCR is installed and correctly configured on the system.
+- Ollama is installed, and a model like "Mistral" or "LLaMA3" is running locally.
+- The resume content is primarily written in English.
+- The resume follows a common or standard structure (like most professional resumes).
+- The system running the script has internet access during initial model download (only needed once for Ollama).
+
+---
+
+## ⚠️ Limitations
+
+- OCR may not work correctly on low-quality, blurry, or handwritten scanned resumes.
+- Unusual resume formats may cause missing or inaccurate fields in the JSON output.
+- The script processes only one resume (one PDF file) at a time.
+- Performance may be slow when processing very large PDF files.
+- No automatic correction for skewed, rotated, or poorly scanned images.
+- The local Ollama server must be running while the script is used.
+- This script does not perform deep validation (like verifying if an email or phone number is real).
+
